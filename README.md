@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### _Hola, soy Katherine Bonilla_  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30"> 
+### _Hola, soy Katherine   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30"> 
 
     
 ## ✨ _Developer / QA:mag_right:__✨ 
