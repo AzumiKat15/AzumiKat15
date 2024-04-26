@@ -15,21 +15,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  Hola, soy Katherine   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30"> 
-
-    
-## ✨ _Developer / QA:mag_right:__✨ 
+###  <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif " width="30"> , I'm Katherine</h1>
+<h3 align="center">A passionate FullStack Developer</h3>
 
 
-###  🚀:green_heart: Actualmente profudizando 
+###  🚀 I’m currently learning **Devops and data science**
+
+<div>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+ 
+</div>
+
+<h3 align="left">Languages and Tools:</h3>
+
+### Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,nodejs,spring, express" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
 
 
-![3ech](https://camo.githubusercontent.com/47380987ecfc7e15bb287529fe03a2c63273ad597edcc85352b02cbb942863e5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2d2d76312e706e67 ) 
-![image](https://user-images.githubusercontent.com/86696439/150569192-afe03bba-fd41-4689-a0a8-480e85ba8c9c.png)
-![3ech](https://static.wixstatic.com/media/012557_1c89757f2a9c4a878cfde8b24cf1d997~mv2.png/v1/fit/w_51%2Ch_51%2Cal_c/file.png) 
-<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" />
-<img height="50" width="50" src=https://www.ambient-it.net/wp-content/uploads/2018/07/cucumber-175m.png />
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ### 💻 IDEs/Editors
 
